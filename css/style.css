@@ -186,12 +186,12 @@
   opacity: 50%;
 }
 
-/* .logos img:hover {
+.logos img:hover {
   filter: none;
   opacity: 100%;
   cursor: pointer;
   transition: all 0.3s ease-out;
-} */
+}
 
 /**********************/
 /* HOW IT WORKS SECTION */
